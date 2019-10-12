@@ -15,4 +15,3 @@ const goods = [
   }
   
   renderGoodsList(goods);
- //class 1
