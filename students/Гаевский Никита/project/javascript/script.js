@@ -15,4 +15,5 @@ const goods = [
   }
   
   renderGoodsList(goods);
+  //dd
  
