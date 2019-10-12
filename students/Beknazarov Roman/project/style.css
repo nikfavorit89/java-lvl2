@@ -13,7 +13,7 @@ main {
     text-align: center;
 }
 
-.catalog {
+.goods-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -21,9 +21,14 @@ main {
     margin: 0 auto;
 }
 
-.product-item {
-
+.goods-item {
+    width: 225px;
+    height: 200px;
 }
+
+
+
+
 
 .btn {
     width: 100px;
