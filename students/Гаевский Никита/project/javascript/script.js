@@ -4,6 +4,7 @@ const goods = [
     { title: 'Jacket', price: 350 },
     { title: 'Shoes', price: 250 },
   ];
+   //попытка номер 1
    
   const renderGoodsItem = (title, price) => {
     return `<div class="goods-item"><h3>${title}</h3><p>${price}</p></div>`;
